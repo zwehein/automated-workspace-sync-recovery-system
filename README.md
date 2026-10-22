@@ -1,6 +1,6 @@
 # Automated Workspace Synchronization & Recovery System (ASR)
 
-A Python command-line utility for keeping a workspace mirrored and maintaining both scheduled and on-demand backups. It was built around a Minecraft server folder, but its file-copy workflows can be adapted to other directory-based workspaces.
+A Python command-line utility for keeping a workspace mirrored and maintaining both scheduled and on-demand backups. It was built around the idea of backing up a Minecraft server folder, but its file-copy workflows can be adapted to other directory-based workspaces.
 
 ## Features
 
